@@ -1,1 +1,5 @@
-matplotlib==3.3.2
+matplotlib
+opencv-python
+streamlit
+streamlit-webrtc
+av
