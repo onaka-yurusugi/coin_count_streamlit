@@ -1,5 +1,5 @@
 matplotlib
-opencv-python
+opencv-python-headless==4.6.0.66
 streamlit
 streamlit-webrtc
 av
